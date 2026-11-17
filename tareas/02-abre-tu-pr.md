@@ -40,5 +40,6 @@ Pega en el chat el enlace de **tu PR**.
 
 ## 🚫 Qué NO hacer
 
-- No fusiones tu PR ni el de otra persona.
+
 - No pongas datos personales en tu presentación.
+- Probando 
